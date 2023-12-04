@@ -29,9 +29,12 @@ miniconda相对Python而言，就是安装的时候多了一个总经理“conda
 简单来说，当你只有一家公司时，“pip”和“conda”都是你的总经理，他们并没有什么区别，区别仅仅在于招聘人才的渠道上罢了，而“pip”的渠道是最广的！但你需要多家公司时，“conda”是负责管理多个公司的好经理，而“pip”只能每一家公司有一个。废话少说，“anaconda”和“miniconda”选一个就好。
 
 下载地址：（可以去官网，但是没有“翻墙”手段下载很慢）
+
 （因此这是清华提供的下载地址）
 Anaconda：https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/ (官网：https://www.anaconda.com/download/)
+
 Miniconda：https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/ (官网：https://docs.conda.io/projects/miniconda/en/latest/)
+
 Python：https://www.python.org/
 
 ## 认识IDE.
